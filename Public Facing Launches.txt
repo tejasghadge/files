@@ -1,0 +1,49 @@
+﻿Some of Publicly Announced Launches from Tejas’s teams. 
+Nov 22nd 2024 - AWS Lambda announces Provisioned Mode for Kafka event source mappings (ESMs)
+ https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-provisioned-mode-kafka-esms/
+
+
+Nov 21st 2024 - Announcing Announcing new Amazon CloudWatch Metrics for AWS Lambda Event Source Mappings (ESMs)
+ https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms/ 
+
+
+Nov 20th 2024 - AWS Lambda supports Amazon S3 as a failed-event destination for asynchronous and stream event sources
+https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-s3-failed-event-destination-stream-event-sources/
+
+
+Oct 31st 2024 - Introducing an enhanced local IDE experience for AWS Lambda developers
+https://aws.amazon.com/blogs/compute/introducing-an-enhanced-local-ide-experience-for-aws-lambda-developers/
+
+
+October 17th 2024 - Simplifying Lambda function development using CloudWatch Logs Live Tail 
+https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-console-real-time-analytics-amazon-cloudwatch/ 
+
+
+October 17th 2024 - AWS Lambda console now surfaces key function insights via built-in Amazon CloudWatch Metrics Insights dashboard
+https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-console-key-function-insights-amazon-cloudwatch-dashboard/
+
+
+August 21st 2024 - AWS Lambda announces support for encryption of filter criteria for event source mappings 
+https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-encryption-filter-criteria-event-source-mappings/
+
+
+July 10th 2023 - Detecting and stopping recursive loops in AWS Lambda functions
+https://aws.amazon.com/blogs/compute/detecting-and-stopping-recursive-loops-in-aws-lambda-functions/
+
+
+Dec 1, 2022 - AWS Pipes launch from EventBridge where underlying infrastructure and service is powered by Lambda Event Source Systems. 
+https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eventbridge-pipes-generally-available/
+
+
+Nov 26th 2021 - Filtering event sources for AWS Lambda functions
+https://aws.amazon.com/blogs/compute/filtering-event-sources-for-aws-lambda-functions/
+
+
+Nov 23rd 2021, AWS Lambda now supports partial batch response for SQS as an event source
+https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-partial-batch-response-sqs-event-source/
+
+
+Dec 15th , 2020 Using AWS Lambda for streaming analytics
+ https://aws.amazon.com/blogs/compute/using-aws-lambda-for-streaming-analytics/
+Nov 25th 2019 AWS Lambda Supports Parallelization Factor for Kinesis and DynamoDB Event Sources
+https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-parallelization-factor-for-kinesis-and-dynamodb-event-sources/

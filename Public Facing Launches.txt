@@ -1,4 +1,4 @@
-Some of Publicly Announced Launches from Tejas’s teams. 
+Some of Publicly Announced Launches from Tejas's direct teams. 
 1. Nov 22nd 2024 - AWS Lambda announces Provisioned Mode for Kafka event source mappings (ESMs)
  https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-provisioned-mode-kafka-esms/
 
